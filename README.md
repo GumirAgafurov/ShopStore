@@ -3,7 +3,7 @@ Shop for test
 
 # Интернет-магазин на React + TypeScript
 Деплой проекта
-https://gumiragafurov.github.io/
+[https://gumiragafurov.github.io/](https://gumiragafurov.github.io/ShopStore/)
 
 
 ## Как запустить локально
